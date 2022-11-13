@@ -5,7 +5,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 This challenge visualises USGS data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
 
-Instructions:
+#Instructions:
+
 To run this repo, execute the following commands:
 1) Git clone https://github.com/BharatGuturi/leaflet-challenge.git
 2) Browse html in Leaflet-Part-1/index.html to view the earthquake visualisation for the last 1 week. Each circle depicts the location of earthquake. The size of the circle represents the magnitude of earthquake. Colour of circle depicts the depth of earthquake.
