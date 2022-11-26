@@ -13,3 +13,9 @@ To run this repo, execute the following commands:
 3) To know additional details of the earthquake, click on the circle.
 4) Browse html in Leaflet-Part-1/index.html to view the earthquake visualisation for the last 1 week and tectonic plates. This consists of 2 maps: Street map and topographic map. Select the option as required.
 
+# Web Pages:
+
+1) Earthquake depths with Legend
+![Alt text](Output/earthquake depths and legend.png?raw=true "Title")
+
+
