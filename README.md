@@ -16,6 +16,6 @@ To run this repo, execute the following commands:
 # Web Pages:
 
 1) Earthquake depths with Legend
-![Alt text](Output/earthquake depths and legend.png?raw=true "Title")
+![Alt text](/Output/earthquake depths and legend.png?raw=true "Title")
 
 
