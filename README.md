@@ -19,6 +19,10 @@ To run this repo, execute the following commands:
 
 <p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/earthquake_depths_and_legend.png' width = 80% ></p>  
 
+2) Earthquake layers with Street view and techtonic plates
 
+<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/2.png' width = 80% ></p> 
 
+3) Earthquake layers with Topographic view and techtonic plates
 
+<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/3.png' width = 80% ></p> 
