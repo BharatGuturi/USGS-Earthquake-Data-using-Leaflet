@@ -16,6 +16,9 @@ To run this repo, execute the following commands:
 # Web Pages:
 
 1) Earthquake depths with Legend
-![Alt text](Output/earthquake depths and legend.png?raw=true "Title")
+
+<p align="center"><img src='(https://github.com/BharatGuturi/leaflet-challenge/tree/main/Output/earthquake depths and legend.png' width = 80% ></p>  
+
+
 
 
