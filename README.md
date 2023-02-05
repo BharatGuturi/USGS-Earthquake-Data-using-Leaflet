@@ -11,7 +11,7 @@ In this project, a visualisation is created after extracting the data from USGS 
 # Instructions:
 
 To run this repo, execute the following commands:
-1) Git clone https://github.com/BharatGuturi/leaflet-challenge.git
+1) Git clone https://github.com/BharatGuturi/USGS-Earthquake-Data-using-Leaflet.git
 2) Browse html in Leaflet-Part-1/index.html to view the earthquake visualisation for the last 1 week. Each circle depicts the location of earthquake. The size of the circle represents the magnitude of earthquake. Colour of circle depicts the depth of earthquake.
 3) To know additional details of the earthquake, click on the circle.
 4) Browse html in Leaflet-Part-1/index.html to view the earthquake visualisation for the last 1 week and tectonic plates. This consists of 2 maps: Street map and topographic map. Select the option as required.
@@ -20,15 +20,15 @@ To run this repo, execute the following commands:
 
 1) Earthquake depths with Legend
 
-<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/earthquake_depths_and_legend.png' width = 80% ></p>  
+<p align="center"><img src='https://github.com/BharatGuturi/USGS-Earthquake-Data-using-Leaflet/blob/main/Output/earthquake_depths_and_legend.png' width = 80% ></p>  
 
 2) Earthquake layers with Street view and techtonic plates
 
-<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/2.png' width = 80% ></p> 
+<p align="center"><img src='https://github.com/BharatGuturi/USGS-Earthquake-Data-using-Leaflet/blob/main/Output/2.png' width = 80% ></p> 
 
 3) Earthquake layers with Topographic view and techtonic plates
 
-<p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/3.png' width = 80% ></p> 
+<p align="center"><img src='https://github.com/BharatGuturi/USGS-Earthquake-Data-using-Leaflet/blob/main/Output/3.png' width = 80% ></p> 
 
 # References:
 
