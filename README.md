@@ -3,7 +3,10 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 The USGS is interested in building a new set of tools that will allow them to visualise their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. 
 
-This challenge visualises USGS data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
+This project focusses on visualising the USGS data that will allow them to better educate the public and other government organisations (and hopefully secure more funding) on issues facing our planet.
+
+# Summary
+In this project, a visualisation is created after extracting the data from USGS GeoJSON. The earthquake data is plotted for the last 7 days (or the chosen number of days) with diameter of each circle representing the magnitude of the earthquake. Additionally, tectonic plates have been plotted with the user interactive interface to choose the type of map. 
 
 # Instructions:
 
@@ -26,3 +29,7 @@ To run this repo, execute the following commands:
 3) Earthquake layers with Topographic view and techtonic plates
 
 <p align="center"><img src='https://github.com/BharatGuturi/leaflet-challenge/blob/main/Output/3.png' width = 80% ></p> 
+
+# References:
+
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
